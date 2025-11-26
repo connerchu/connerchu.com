@@ -14,11 +14,11 @@ export const metadata: Metadata = {
     template: '%s | Conner Chu',
   },
   description:
-    'Personal site of Conner Chu, UC Berkeley physics and applied mathematics student exploring gravitational physics and deep learning theory.',
+    "Conner Chu's personal website!",
   openGraph: {
     title: 'Conner Chu',
     description:
-      'Personal site of Conner Chu, UC Berkeley physics and applied mathematics student exploring gravitational physics and deep learning theory.',
+      "Conner Chu's personal website!",
     url: baseUrl,
     siteName: 'Conner Chu',
     locale: 'en_US',
