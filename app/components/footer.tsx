@@ -77,7 +77,7 @@ export default function Footer() {
         </li>
       </ul>
       <p className="mt-4 text-neutral-600 dark:text-neutral-300">
-        © 2025 Conner Chu. All rights reserved. Site content is copyrighted.
+        © 2026 Conner Chu. All rights reserved. Site content is copyrighted.
         Source code based on an MIT-licensed template.
       </p>
     </footer>
